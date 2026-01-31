@@ -2,6 +2,11 @@
 how to fix (ERROR 1396 (HY000): Operation CREATE USER failed for 'phpmyadmin'@'localhost')
 
 ---
+
+# how to run phpmyadmin?
+![PhpMyAdmin](https://github.com/GodFather850/How-to-Run-phpmyadmin-In-Linux-Ubuntu-)
+
+---
 # Error Message
 
 ```sql
